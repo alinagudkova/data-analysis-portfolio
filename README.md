@@ -44,4 +44,3 @@ jupyter notebook avocado_analysis.ipynb
 ## Источник данных
 
 [Kaggle: Avocado Prices](https://www.kaggle.com/datasets/neuromusic/avocado-prices)
-# data-analysis-portfolio
